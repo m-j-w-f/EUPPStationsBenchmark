@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Stations Post-Processing Benchmark Dataset"
-description: "This is the page description"
 ---
 # Overview
 
